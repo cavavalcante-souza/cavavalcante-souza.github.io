@@ -1,0 +1,91 @@
+/*
+
+@Author Lucas Souza
+@Version 0.1
+@Date 09/25/2018
+
+*/
+
+/*===============================Layout==================================*/
+
+body,html,.cenario{
+	width: 100%;
+	margin: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+
+/*----CONTROLE---*/
+
+
+#controle{
+	position: relative;
+	right: 10%;
+}
+
+#timecontrole{
+	position: relative;
+}
+
+#timer{
+	position: absolute;
+	bottom: 35%;
+	right: 50%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.counterb{
+	padding-left: 40px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.marginbottom{
+	margin-bottom: 25%;
+}
+
+.margintop{
+	padding-top: 50%;
+}
+
+
+/*----CENÁRIO---*/
+
+#cenario{
+	position: relative;
+	right: 11.5%;
+	top:100px;
+}
+
+#cenariocamp{
+	position: absolute;
+	width: 1200px;
+	height: 680px;
+	left: 13.7%;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.mag10{
+	margin: 10px 0px 10px 0px;
+}
+
+.withr{
+	width: 1200px;
+}
+
+
+/*===============================Tipografia===============================*/
+
+
+
+
+
+
+
+
+
